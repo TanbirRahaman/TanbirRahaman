@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tanbirrahaman26@gmail.com**
 
-- 🥅 2020 Goals: **Contribute more to Open Source projects**
+- 🥅 2025 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **I love to play badminton and listen music.**
 
