@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently looking for an IT company to grow and learn!
 
-- 🌱 I’m currently learning **Node js ,Express js, MongoDB**
-
 - 💬 Ask me about **javascript,react,sql**
 
 - 📫 How to reach me **tanbirrahaman26@gmail.com**
 
-- 🥅 2025 Goals: **Contribute more to Open Source projects**
+- 🥅 2026 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact **I love to play badminton and listen music.**
 
