@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for an IT company to grow and learn!
 
-- 💬 Ask me about **javascript,react,sql**
+- 💬 Ask me about **Python,Django,GenAI,javascript,HTML,SQLite**
 
 - 📫 How to reach me **tanbirrahaman26@gmail.com**
 
